@@ -6,3 +6,5 @@ password = "lol123ok!"
 auth_tuple = ("totolao", "mY_s3cr3t_p@ssw0rd")
 
 # comment password = mY_s3cr3t_p@ssw0rd
+
+# Not a secret
